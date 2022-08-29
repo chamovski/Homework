@@ -1,0 +1,16 @@
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\bin\Debug\net5.0\Homework.exe
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\bin\Debug\net5.0\Homework.deps.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\bin\Debug\net5.0\Homework.runtimeconfig.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\bin\Debug\net5.0\Homework.runtimeconfig.dev.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\bin\Debug\net5.0\Homework.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\bin\Debug\net5.0\Homework.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.csproj.AssemblyReference.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.AssemblyInfoInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.AssemblyInfo.cs
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.csproj.CoreCompileInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\refint\Homework.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\Homework.genruntimeconfig.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\Homework\obj\Debug\net5.0\ref\Homework.dll
