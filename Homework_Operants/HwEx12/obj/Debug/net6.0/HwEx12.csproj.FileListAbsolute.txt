@@ -1,0 +1,15 @@
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\bin\Debug\net6.0\HwEx12.exe
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\bin\Debug\net6.0\HwEx12.deps.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\bin\Debug\net6.0\HwEx12.runtimeconfig.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\bin\Debug\net6.0\HwEx12.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\bin\Debug\net6.0\HwEx12.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.csproj.AssemblyReference.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.AssemblyInfoInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.AssemblyInfo.cs
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.csproj.CoreCompileInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\refint\HwEx12.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\HwEx12.genruntimeconfig.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\Practice\HomeworkCSharp\HwEx01\HwEx12\obj\Debug\net6.0\ref\HwEx12.dll
